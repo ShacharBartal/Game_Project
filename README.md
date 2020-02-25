@@ -1,6 +1,6 @@
 # 20 Flags
 
-* C#, MonoGame.
+* C#, OOP, MonoGame.
 * 2 players playing against each other on a board game server. Each player builds his own custom territory, then places his soldiers, the flag and the traps wherever he wants. The game begins. 
 * The object of the game is to capture the enemy flag.
 
